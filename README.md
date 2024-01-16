@@ -1,6 +1,6 @@
 <p align="left">E aí, pode me chamar de Djordan. Sou desenvolvedor Android nativo e um entusiasta de UX/UI Design. Minha missão é desenvolver soluções onde o usuário é o protagonista!</p>
 
-![](https://github-readme-stats.vercel.app/api?username=henriquedjordan&show_icons=true&theme=gotham)
+![Stats](https://github-readme-stats.vercel.app/api?username=henriquedjordan&show_icons=true&theme=gotham)
 
  &nbsp;
  &nbsp;
