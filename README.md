@@ -3,7 +3,7 @@
 &nbsp;
 &nbsp;
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=henriquedjordan&hide=contribs,prs&theme=gotham)
+![](https://github-readme-stats.vercel.app/api?username=henriquedjordan&hide=contribs,prs&theme=gotham&title="Djordan")
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquedjordan&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 
