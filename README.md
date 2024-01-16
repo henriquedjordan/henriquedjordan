@@ -1,9 +1,7 @@
 <p align="left">E aí, pode me chamar de Djordan. Sou desenvolvedor Android nativo e UX/UI Designer. Minha missão é desenvolver soluções onde o usuário é o protagonista!</p>
 
-<div style="display: flex; justify-content: space-between;">
     <img src="https://github-readme-stats.vercel.app/api?username=henriquedjordan&hide=contribs,prs&theme=gotham&title=Djordan" height="300px" width="400px">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquedjordan&layout=compact&theme=gotham" height="300px" width="400px">
-</div>
 
 
 ## My Skills
