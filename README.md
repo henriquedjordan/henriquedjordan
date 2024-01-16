@@ -1,8 +1,5 @@
 <p align="left">E aí, pode me chamar de Djordan. Sou desenvolvedor Android nativo e um entusiasta de UX/UI Design. Minha missão é desenvolver soluções onde o usuário é o protagonista!</p>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=henriquedjordan&show_icons=true&theme=gotham&custom_title=Stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquedjordan&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-
 <div align="center">
   <a href="https://github.com/alexsantos/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=henriquedjordan&show_icons=true&theme=gotham&custom_title=Stats"/>
