@@ -3,8 +3,8 @@
 &nbsp;
 &nbsp;
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=henriquedjordan&hide=contribs,prs&theme=gotham&title=Djordan)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquedjordan&layout=compact&theme=gotham&card_width=400)
+<img src="https://github-readme-stats.vercel.app/api?username=henriquedjordan&hide=contribs,prs&theme=gotham&title=Djordan" height="200px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquedjordan&layout=compact&theme=gotham" height="200px">
 
 
 ## My Skills
