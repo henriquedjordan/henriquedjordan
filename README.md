@@ -4,8 +4,8 @@
 &nbsp;
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api?username=henriquedjordan&hide=contribs,prs&theme=gotham&title=Djordan" height="180px">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquedjordan&layout=compact&theme=gotham" height="180px">
+    <img src="https://github-readme-stats.vercel.app/api?username=henriquedjordan&hide=contribs,prs&theme=gotham&title=Djordan" height="180px" width="200px">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquedjordan&layout=compact&theme=gotham" height="180px" width="200px">
 </div>
 
 
