@@ -1,6 +1,6 @@
 <p align="left">E aí, pode me chamar de Djordan. Sou desenvolvedor Android nativo e um entusiasta de UX/UI Design. Minha missão é desenvolver soluções onde o usuário é o protagonista!</p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Djordan GitHub stats](https://github-readme-stats.vercel.app/api?username=henriquedjordan)](https://github.com/anuraghazra/github-readme-stats)
 
  &nbsp;
  &nbsp;
