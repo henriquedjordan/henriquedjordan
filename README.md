@@ -3,6 +3,15 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=henriquedjordan&show_icons=true&theme=gotham&custom_title=Stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquedjordan&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
+<div align="center">
+  <a href="https://github.com/alexsantos/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=henriquedjordan&show_icons=true&theme=gotham&custom_title=Stats"/>
+  </a>
+  <a href="https://github.com/alexsantos/convoychat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquedjordan&layout=compact&theme=gotham/>
+  </a>
+</div>
+
  &nbsp;
  &nbsp;
 
