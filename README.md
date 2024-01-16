@@ -1,5 +1,4 @@
-<p align="center">E aí, pode me chamar de Djordan. Sou desenvolvedor Android nativo e um entusiasta de UX/UI Design. 
-Minha missão é desenvolver soluções onde o usuário é o protagonista!</p>&nbsp;
+<p align="right">E aí, pode me chamar de Djordan. Sou desenvolvedor Android nativo e um entusiasta de UX/UI Design. Minha missão é desenvolver soluções onde o usuário é o protagonista!</p>&nbsp;
 
 
 
