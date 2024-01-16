@@ -3,8 +3,8 @@
 &nbsp;
 &nbsp;
 
-<img src="https://github-readme-stats.vercel.app/api?username=henriquedjordan&hide=contribs,prs&theme=gotham&title=Djordan" height="200px">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquedjordan&layout=compact&theme=gotham" height="200px">
+<img src="https://github-readme-stats.vercel.app/api?username=henriquedjordan&hide=contribs,prs&theme=gotham&title=Djordan" height="120px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquedjordan&layout=compact&theme=gotham" height="120px">
 
 
 ## My Skills
