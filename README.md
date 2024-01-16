@@ -1,6 +1,13 @@
 <p align="left">E aí, pode me chamar de Djordan. Sou desenvolvedor Android nativo e UX/UI Designer. Minha missão é desenvolver soluções onde o usuário é o protagonista!</p>
 
-
+<div align="center">
+  <a href="https://github.com/henriquedjordan/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=henriquedjordan&show_icons=true&theme=gotham&line_height=28&custom_title=States&rank_icon=github&border_radius=10px&card_width=100px"/>
+  </a>
+  <a href="https://github.com/henriquedjordan/convoychat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquedjordan&layout=donut&theme=gotham&border_radius=10px"/>
+  </a>
+</div>
 
 ## My Skills
 
