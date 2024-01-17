@@ -1,4 +1,4 @@
-<p align="left">Desenvolvedor Android nativo e UX/UI Designer. Minha missão é desenvolver soluções onde o usuário é o protagonista!</p>
+<p align="left">"Native Android Developer and UX/UI Designer. My mission is to create solutions where the user is the protagonist!"</p>
 &nbsp;
 
 <div align="center">
