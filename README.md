@@ -22,7 +22,9 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
 
-![UX UI Mobile](./images/android-svg-black.png&align=right)&nbsp;
+<p align="right">
+  <img src="./images/android-svg-black.png" alt="UxUi" width="300" height="300">
+</p>
 
 
 #### Databases:
