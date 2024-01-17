@@ -22,9 +22,9 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
 
-<div align="right">
-  <img src="./images/android-svg-black.png" alt="UxUi" width="300" height="300">
-</div>
+<p align="right">
+  <img src="./images/android-svg-black.png" alt="Descrição da imagem" width="300" height="300" style="margin: 0; padding: 0;">
+</p>
 
 
 #### Databases:
