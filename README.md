@@ -1,8 +1,6 @@
 <p align="left">Native Android Developer and UX/UI Designer. My mission is to create solutions where the user is the protagonist!</p>
-&nbsp;
-&nbsp;
 
-## My Skills
+&nbsp;
 
 #### Languages:
 
@@ -26,7 +24,6 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 
-&nbsp;
 
 ## Contacts:
 
