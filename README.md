@@ -1,14 +1,5 @@
 <p align="left">Native Android Developer and UX/UI Designer. My mission is to create solutions where the user is the protagonist!</p>
 &nbsp;
-
-<div align="center">
-  <a href="https://github.com/henriquedjordan/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=henriquedjordan&show_icons=true&theme=gotham&line_height=28&custom_title=States&rank_icon=github&border_radius=10px&card_width=100px"/>
-  </a>
-  <a href="https://github.com/henriquedjordan/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquedjordan&layout=donut&theme=gotham&border_radius=10px"/>
-  </a>
-</div>
 &nbsp;
 
 ## My Skills
