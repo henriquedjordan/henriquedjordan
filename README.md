@@ -1,4 +1,4 @@
-<p align="left">Software Developer. My mission is to create solutions where the user is the protagonist!</p>
+<p align="left">Software Developer and UX/UI Designer. My mission is to create solutions where the user is the protagonist!</p>
 
 &nbsp;
 
