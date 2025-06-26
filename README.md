@@ -2,7 +2,8 @@
 
 &nbsp;
 
-#### Stack: 
+### Stack:
+</br>
 ![TypeScript](https://img.shields.io/badge/TypeScript-f?style=for-the-badge&logo=TypeScript&logoColor=%233178C6&labelColor=%23000000&color=%233178C6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f?style=for-the-badge&logo=JavaScript&logoColor=%23F7DF1E&labelColor=%23000000&color=%23F7DF1E)
 ![React](https://img.shields.io/badge/React-f?style=for-the-badge&logo=React&logoColor=%2369FFFF&labelColor=%23000000&color=%2369FFFF)
@@ -17,7 +18,6 @@
 
 
 ## Contacts:
-
 <div> 
 <a href="https://www.instagram.com/djordancode/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
