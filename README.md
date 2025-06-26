@@ -6,6 +6,9 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-f?style=for-the-badge&logo=TypeScript&logoColor=%233178C6&labelColor=%23000000&color=%233178C6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f?style=for-the-badge&logo=JavaScript&logoColor=%23F7DF1E&labelColor=%23000000&color=%23F7DF1E)
 ![React](https://img.shields.io/badge/React-f?style=for-the-badge&logo=React&logoColor=%2369FFFF&labelColor=%23000000&color=%2369FFFF)
+![Node](https://img.shields.io/badge/node-5FA04E?style=for-the-badge&logo=Node.js&logoColor=%235FA04E&labelColor=black)
+![Next](https://img.shields.io/badge/Next-f?style=for-the-badge&logo=Next.js&logoColor=white&labelColor=black&color=eaeaea)
+![Express](https://img.shields.io/badge/Express-FFFFFF?style=for-the-badge&logo=Express&logoColor=%23FFFFFF&labelColor=black&color=eaeaea)
 ![MongoDB](https://img.shields.io/badge/MongoDB-f?style=for-the-badge&logo=MongoDB&logoColor=%2347A248&labelColor=%23000000&color=%2347A248)
 ![PostgreSQL](https://img.shields.io/badge/Postgresql-f?style=for-the-badge&logo=PostgreSQL&logoColor=%234169E1&labelColor=%23000000&color=%234169E1)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
