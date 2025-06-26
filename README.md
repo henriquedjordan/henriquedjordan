@@ -2,22 +2,13 @@
 
 &nbsp;
 
-#### Mobile: 
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)&nbsp; 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)&nbsp;
-![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)&nbsp;
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
-
-#### Backend:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-#### Workstation Tools:
-
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)&nbsp;
+#### Stack: 
+![TypeScript](https://img.shields.io/badge/TypeScript-f?style=for-the-badge&logo=TypeScript&logoColor=%233178C6&labelColor=%23000000&color=%233178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-f?style=for-the-badge&logo=JavaScript&logoColor=%23F7DF1E&labelColor=%23000000&color=%23F7DF1E)
+![React](https://img.shields.io/badge/React-f?style=for-the-badge&logo=React&logoColor=%2369FFFF&labelColor=%23000000&color=%2369FFFF)
+![MongoDB](https://img.shields.io/badge/MongoDB-f?style=for-the-badge&logo=MongoDB&logoColor=%2347A248&labelColor=%23000000&color=%2347A248)
+![PostgreSQL](https://img.shields.io/badge/Postgresql-f?style=for-the-badge&logo=PostgreSQL&logoColor=%234169E1&labelColor=%23000000&color=%234169E1)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
