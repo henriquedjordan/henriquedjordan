@@ -1,4 +1,4 @@
-<p align="left">Firmware Developer. My mission is to build secure and efficient solutions for the real world.</p>
+<p align="left">Software/Firmware Developer. My mission is to build secure and efficient solutions for the real world.</p>
 
 &nbsp;
 
