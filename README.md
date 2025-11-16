@@ -1,4 +1,4 @@
-<p align="left">Software Developer. My mission is to create solutions where the user is the protagonist!</p>
+<p align="left">Firmware Developer. My mission is to build secure and efficient solutions for the real world.</p>
 
 &nbsp;
 
