@@ -20,4 +20,4 @@
 &nbsp;
 &nbsp;
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=58af48&descAlignY=50&section=footer&reversal=false"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=28AF5E&descAlignY=50&section=footer&reversal=false"/>
