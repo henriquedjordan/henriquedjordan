@@ -1,5 +1,9 @@
 <p align="left">"Information wants to be free!"</p>
 
+## Henrique Djordan
+
+Software developer
+
 ## Stack:
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,bash,linux,git)](https://skillicons.dev)
