@@ -1,5 +1,3 @@
-<p align="left">"Information wants to be free!"</p>
-
 ## Henrique Djordan
 
 Software developer
