@@ -7,7 +7,8 @@
 
 ## Contact:
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin,gmail)](https://skillicons.dev)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/henriquedjordan)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:henriquedjordan@gmail.com)
 
  
 &nbsp;
