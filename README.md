@@ -2,7 +2,7 @@
 
 ## Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,python,bash,linux,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,bash,linux,git)](https://skillicons.dev)
 
 
 ## Contact:
