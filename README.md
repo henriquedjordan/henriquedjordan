@@ -4,12 +4,6 @@
 
 ## Stack:
 
-![Python](https://img.shields.io/badge/Python-00599C?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,python,bash,linux,git)](https://skillicons.dev)
 
 
