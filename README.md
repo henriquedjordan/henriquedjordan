@@ -8,8 +8,7 @@
 ## Contact:
 
 <div> 
-<a href = "mailto:henriquedjordan@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail)](https://skillicons.dev" target="_blank"></a>
-<a href = "mailto:henriquedjordan@gmail.com"> <img src="https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev" target="_blank"></a>
+<a href = "mailto:henriquedjordan@gmail.com"> <img src="https://skillicons.dev/icons?i=linkedin,gmail)](https://skillicons.dev" target="_blank"></a>
  
 &nbsp;
 &nbsp;
