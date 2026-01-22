@@ -1,5 +1,3 @@
-## Henrique Djordan
-
 Software developer
 
 ## Stack:
