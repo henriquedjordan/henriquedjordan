@@ -1,4 +1,4 @@
-<p align="left">Hack the planet!</p>
+<p align="left">Underground tech;</p>
 
 ## Stack:
 
