@@ -7,7 +7,6 @@
 
 ## Contact:
 
-<div> 
 [![My Skills](https://skillicons.dev/icons?i=linkedin,gmail)](https://skillicons.dev)
 
  
