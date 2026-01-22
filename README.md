@@ -1,4 +1,4 @@
-<p align="left">Underground tech;</p>
+<p align="left">"Information wants to be free!"</p>
 
 ## Stack:
 
