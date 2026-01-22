@@ -1,4 +1,4 @@
-<p align="left">UNDGND TECH;.</p>
+<p align="left">UNDERGROUND TECH;</p>
 
 ## Stack:
 
