@@ -1,4 +1,4 @@
-Software developer
+Software developer focused on network security and low-level applications.
 
 ## Stack:
 
