@@ -1,4 +1,4 @@
-Software developer focused
+Software developer
 
 ## Stack:
 
