@@ -1,4 +1,4 @@
-Software developer focused on network security.
+Software developer focused
 
 ## Stack:
 
