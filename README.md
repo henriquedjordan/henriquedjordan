@@ -1,4 +1,4 @@
-Software developer focused on network security and low-level applications.
+Software developer focused on network security.
 
 ## Stack:
 
