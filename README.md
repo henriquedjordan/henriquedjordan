@@ -2,7 +2,7 @@ Software developer focused on Networking, Low Level Systems & Security
 
 ## Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,bash,linux,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,bash,linux,postgres,docker,git)](https://skillicons.dev)
 
 
 ## Contact:
