@@ -7,7 +7,6 @@ Software developer focused on Low Level Systems & Security
 
 ## Contact:
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/henriquedjordan)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:henriquedjordan@gmail.com)
 
  
