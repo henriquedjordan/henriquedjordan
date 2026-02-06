@@ -3,12 +3,6 @@ Software developer focused on Low Level Systems & Security
 ## Stack:
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,bash,linux,git)](https://skillicons.dev)
-
-
-## Contact:
-
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:henriquedjordan@gmail.com)
-
  
 &nbsp;
 &nbsp;
