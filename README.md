@@ -1,4 +1,4 @@
-Software developer focused on Low Level Systems & Security
+Software developer focused on Systems & Security
 
 ## Stack:
 
