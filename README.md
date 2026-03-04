@@ -2,7 +2,7 @@ Software developer focused on Systems & Security
 
 ## Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,bash,linux,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,linux,git)](https://skillicons.dev)
  
 &nbsp;
 &nbsp;
