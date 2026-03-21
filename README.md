@@ -1,4 +1,4 @@
-Low-Level Systems Programmer
+Systems Programmer
 
 ## Stack:
 
